@@ -4,7 +4,7 @@ Because of copyright restrictions, we are unable to provide the dataset. Consequ
 
 In addition, a synthetic dataset for both models can be downloaded with
 ```bash 
-wget TODO -P ../outputs/ 
+bash download_synthetic_datasets.sh
  ```
 
 Experiment steps:
