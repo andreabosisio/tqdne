@@ -2,7 +2,7 @@
 
 ## About
 
-This repository contains the experimental code of the thesis [On the Synthesis of Seismic Broadband Waveforms with Conditional Diffusion Models](https://www.politesi.polimi.it/item/preview.htm?uuid=7d634fd2-c911-4239-baf9-c00aa7180f74&mode=simple).
+This repository contains the experimental code of the thesis [On the Synthesis of Seismic Broadband Waveforms with Conditional Diffusion Models](https://www.politesi.polimi.it/handle/10589/227978).
 It can be used to generate seismic waveforms, replicate the results from the manuscript, or for training custom models from scratch.
 
 ![Model scheme](imgs/scheme.png)
